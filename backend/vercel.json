@@ -7,7 +7,7 @@
       {
         "src": "/(.*)",
         "headers": {
-          "Access-Control-Allow-Origin": ["https://frontend-hazel-nine-13.vercel.app", "http://localhost:3000"],
+          "Access-Control-Allow-Origin": "https://frontend-hazel-nine-13.vercel.app",
           "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
           "Access-Control-Allow-Headers": "Content-Type, Authorization",
           "Access-Control-Allow-Credentials": "true"
