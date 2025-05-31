@@ -15,7 +15,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:4000/api/public/stations/",
+					"raw": "https://backend-eight-orpin-21.vercel.app/api/public/stations/",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -49,7 +49,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:4000/api/public/stations/",
+					"raw": "https://backend-eight-orpin-21.vercel.app/api/public/stations/",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -74,7 +74,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:4000/api/public/stations/68395ec0e7d203091f89ec23",
+					"raw": "https://backend-eight-orpin-21.vercel.app/api/public/stations/68395ec0e7d203091f89ec23",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -108,7 +108,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:4000/api/public/stations/68395ec0e7d203091f89ec23",
+					"raw": "https://backend-eight-orpin-21.vercel.app/api/public/stations/68395ec0e7d203091f89ec23",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -133,7 +133,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:4000/api/public/stations/6839617ae8cccd977b3aa600",
+					"raw": "https://backend-eight-orpin-21.vercel.app/api/public/stations/6839617ae8cccd977b3aa600",
 					"protocol": "http",
 					"host": [
 						"localhost"
